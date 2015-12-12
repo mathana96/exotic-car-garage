@@ -1,0 +1,31 @@
+
+h1.header
+{
+  font-family: 'Arizonia', cursive; 
+  font-size: 4em;
+}
+
+html *
+{
+  font-family: 'Monda', sans-serif;
+}
+
+body
+{
+  text-align: justify;
+  font-weight: bold;
+  background: rgb(247, 247, 247);
+}
+a  
+{
+  text-decoration: none !important!;
+  color: black;
+}
+h1
+{
+  text-align: center;
+}
+div.selected 
+{
+  font-weight: bolder;
+}
